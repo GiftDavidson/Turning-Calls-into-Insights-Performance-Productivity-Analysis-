@@ -32,8 +32,8 @@ The aim of this project is to design an interactive call centre dashboard that p
 - Sentiment analysis of customer interactions.
   
 # Tools and Process
-- Data Cleaning & Preparation: Handled using Python (Pandas) for structuring and removing inconsistencies.
-- Dashboard Creation: Built with Power BI/Tableau/Excel (depending on tool used) to integrate visuals and KPIs.
+- Data Cleaning & Preparation: PowerBI(POWER QUERY)
+- Dashboard Creation: Built with Power BI  to integrate visuals and KPIs.
 - Visualization Techniques: Applied charts, maps, and cards to highlight performance indicators.
 - User Interaction: Filters included to allow dynamic exploration of data.
   
