@@ -42,3 +42,8 @@ Call Centre, Customer Service, Dashboard, SLA, Response Time, Total Calls, Chann
 
 # Conclusion
 The dashboard provides a comprehensive view of call centre operations, highlighting both efficiency and areas for improvement. High call volumes are observed during weekdays, with billing questions being the most frequent customer concern. The response rate within SLA stands at 75.26%, showing room for improvement in service delivery. By leveraging this dashboard, managers can track performance trends, identify bottlenecks, and improve customer satisfaction.
+
+# Dataset Used & Dashboard
+<a href="https://github.com/GiftDavidson/Turning-Calls-into-Insights-Performance-Productivity-Analysis-/blob/main/Call%20Center_Call%20Center.csv">Download Call Center Dataset</a>
+
+<a href="https://github.com/GiftDavidson/Turning-Calls-into-Insights-Performance-Productivity-Analysis-/blob/main/Call%20Center%20Dashboard.jpg">Download Call Center Image</a>
