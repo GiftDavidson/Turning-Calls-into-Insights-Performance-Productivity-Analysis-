@@ -2,7 +2,7 @@
 This dashboard tracks call center performance by analyzing call volume, handling time, resolution rates, agent productivity, and customer satisfaction. It transforms data into insights to improve efficiency, enhance customer experience, and support data-driven decisions.
 
 # Dashboard
-![Call Center Dashboard](https://github.com/user-attachments/assets/7659c2b8-cddf-4055-b7ac-4636d3ea2432)
+![Call Center Dashboard](https://github.com/user-attachments/assets/7659c2b8-cddf-4055-b7ac-4636d3ea2432) 
 
 
 # Project Aim
