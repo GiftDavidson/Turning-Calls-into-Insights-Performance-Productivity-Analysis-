@@ -3,6 +3,8 @@ This dashboard tracks call center performance by analyzing call volume, handling
 
 # Dashboard
 ![Call Center Dashboard](https://github.com/user-attachments/assets/7659c2b8-cddf-4055-b7ac-4636d3ea2432) 
+<img width="1071" height="573" alt="Screenshot 2025-09-22 113550" src="https://github.com/user-attachments/assets/1022cdc6-a90d-4077-9bb5-a982849ce817" />
+![Call Center Dashboard](https://github.com/user-attachments/assets/66c6fb7c-d3a2-44a4-ae3b-ad30825923f9)
 
 
 # Project Aim
