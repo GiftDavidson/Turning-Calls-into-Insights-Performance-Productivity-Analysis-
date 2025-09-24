@@ -3,7 +3,7 @@ This dashboard tracks call center performance by analyzing call volume, handling
 
 # Dashboard
 ![Call Center Dashboard](https://github.com/user-attachments/assets/7659c2b8-cddf-4055-b7ac-4636d3ea2432) 
-![Call Center Dashboard]("C:\Users\USER\Pictures\Call Center Dashboard.jpg")
+
 
 # Project Aim
 The aim of this project is to design an interactive call centre dashboard that provides insights into call performance, customer issues, and service response times. The dashboard helps managers monitor operations, identify key trends, and make data-driven decisions to improve customer support efficiency.
